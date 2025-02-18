@@ -2,7 +2,7 @@
 ### Cloning the repository
 
 ```shell
-https://github.com/Anshkaran7/College-Project--Twitter-.git
+https://github.com/Anshkaran7/Twitter_Clone
 ```
 
 ### Install packages
